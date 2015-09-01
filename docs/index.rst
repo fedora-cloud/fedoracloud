@@ -6,6 +6,8 @@
 Welcome to Fedora Cloud's documentation!
 ========================================
 
+This repo contains the user documentation for Fedora Cloud project.
+
 Contents:
 
 .. toctree::
