@@ -6,12 +6,14 @@
 Welcome to Fedora Cloud's documentation!
 ========================================
 
-This repo contains the user documentation for Fedora Cloud project.
+This repo contains the documentation for Fedora Cloud users.
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
+
+   whatis
 
 
 
