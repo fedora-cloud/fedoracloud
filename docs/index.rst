@@ -16,6 +16,7 @@ Contents:
    whatis
    atomic
    base
+   docker
    contribute
 
 
