@@ -1,3 +1,5 @@
+This Documenation is created with the help of `Major Hayden <https://major.io/>`_. Thanks to Major Hayden :).
+
 Networkd
 =========
 

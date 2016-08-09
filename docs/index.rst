@@ -14,6 +14,7 @@ Contents:
    :maxdepth: 2
 
    whatis
+   networkd
    atomic
    base
    docker
