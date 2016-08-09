@@ -265,4 +265,4 @@ You'll find two physical network cards (``enp1s0f0`` and ``enp1s0f1``) each atta
 **Further Reading**
 
 - `ArchLinux systemd-networkd documentation <https://wiki.archlinux.org/index.php/Systemd-networkd/>`_
-- `Upstream systemd-networkd documentation <https://www.freedesktop.org/software/systemd/man/systemd-networkd.service.html/>`_
+- `Upstream systemd-networkd documentation <https://www.freedesktop.org/software/systemd/man/systemd-networkd.service.html>`_
