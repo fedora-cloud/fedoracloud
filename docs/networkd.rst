@@ -20,7 +20,7 @@ Comparing systemd-networkd and NetworkManager
 Configuration
 -------------
 
-
+Fedora Cloud Base Image. Download it from `here <https://getfedora.org/en/cloud/download/>`_.
 
 Switching from NetworkManager to systemd-networkd
 -------------------------------------------------
