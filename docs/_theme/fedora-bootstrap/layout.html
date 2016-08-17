@@ -8,7 +8,7 @@
 {%- block relbar1 %}{% endblock %}
 {%- block content %}
   <div class="masthead">
-      <div class="container">
+      <div class="container-fluid">
         <div class="row">
           <div class="col-sm-6">
             <a href="#">
@@ -25,22 +25,22 @@
 
 
     <div class="bodycontent">
-      <div class="container">
+      <div class="container-fluid">
       <div class="row">
-  {%- block sidebar1 %}
-        <div class="col-sm-3 sidebar" >
-        {{ sidebar() }}
-        </div>
-  {% endblock %}
   {%- block document %}
-      <div class="col-sm-9 documentarea">
-        <div class="container m-a-2">
+      <div class="col-sm-8 p-t-3 documentarea">
+        <div class="container">
           <div class="body" role="main">
             {% block body %} {% endblock %}
           </div>
         </div>
       </div>
   {%- endblock %}
+  {%- block sidebar1 %}
+        <div class="col-sm-4 sidebar p-t-3" >
+        {{ sidebar() }}
+        </div>
+  {% endblock %}
     </div>
   </div>
   </div>
