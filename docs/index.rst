@@ -19,6 +19,7 @@ Contents:
    atomiccommandcheatsheet
    base
    docker
+   irssi
    contribute
 
 
